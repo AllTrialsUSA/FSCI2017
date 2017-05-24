@@ -1,8 +1,6 @@
-Advocating for transparency policies - a toolkit for students, researchers, staff, and librarians
+# Advocating for transparency policies - a toolkit for students, researchers, staff, and librarians
 
 Adapted from [Advocating Open Access – a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf) by [JISC](https://www.jisc.ac.uk/about) and [A Workshop Curriculum on Policy Advocacy Strategy Development](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/) by [PATH](http://www.path.org/).
-
-[[TOC]]
 
 # Choose an advocacy issue.
 
@@ -234,7 +232,8 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
 
 ## Assess team capacity
 
-## You need a team.
+## 
+You need a team.
 
 * Your most important choice is who is on your team.
 
@@ -284,7 +283,8 @@ Take inventory of advocacy assets and gaps
 
 ## Create SMART advocacy objectives
 
-Define your campaign.
+
+Define your campaign.
 
 * What do you want your campaign to achieve?
 
@@ -336,7 +336,8 @@ Take inventory of advocacy assets and gaps
 
 ## Develop a work plan
 
-## Create a campaign plan.
+## 
+Create a campaign plan.
 
 * Define discrete tasks with realistic deadlines.
 
