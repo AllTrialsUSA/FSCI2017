@@ -4,13 +4,13 @@ Reusable materials, curriculum, and instructor guidelines for the Communication 
 # Syllabus
 
 ## Course Title
-### Communication and Advocacy for Research Transparency
+**Communication and Advocacy for Research Transparency**
 
 ## Instructor(s) Information 
-### April Clyburne-Sherin, Campaign Manager, AllTrials USA at Sense About Science USA ([Linkedin profile](https://www.linkedin.com/uas/login?trk=bf&trkInfo=AQHMkGDmbvL6BAAAAVvKDP7I0FFN9IkMaWmeOAdYIsv09g0LaVldlM8lcR0b_SzdWZKqIUiuA3zYcFj4aoBhezq2DPWNUqB7bGpq1DA=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fapril-clyburne-sherin-30231383))
+**April Clyburne-Sherin**, Campaign Manager, AllTrials USA at Sense About Science USA ([Linkedin profile](https://www.linkedin.com/uas/login?trk=bf&trkInfo=AQHMkGDmbvL6BAAAAVvKDP7I0FFN9IkMaWmeOAdYIsv09g0LaVldlM8lcR0b_SzdWZKqIUiuA3zYcFj4aoBhezq2DPWNUqB7bGpq1DA=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fapril-clyburne-sherin-30231383))
 
 ## Audience Level 
-### Beginner. No previous knowledge is required.
+Beginner. No previous knowledge is required.
 
 ## Audience
 Anyone with an interest in research, communication, or advocacy is welcome. This course is especially useful for those looking to become more involved in advancing research policy and practice in their organization, institution, or discipline.
