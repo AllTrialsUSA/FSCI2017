@@ -146,28 +146,50 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
 
 ## Analyze the obstacles.
 * Brainstorm 3 obstacles to reaching your advocacy goal.
-   * Common obstacles include lack of funds, team capacity, lack of coordination, etc.
+   * Common obstacles include:
+      * Sustainability
+      * Fundraising
+      * Recruitment
+      * Organization
+      * Delegation
+      * Communication
+      * Accountability
+      * Lack of expertise or information
    * Brainstorm at least one idea on how you might overcome each of these obstacles.
 
-# Advocacy Assets and Gaps
+# Assess team assets and gaps.
 
-## Assess team capacity
-
-## 
-You need a team.
+## You need a team.
+* Learn to collaborate and delegate. You cannot succeed on your own.
 * Your most important choice is who is on your team.
 * Choose people who are more excited than you. 
 * Actively care for and support the people you work with. 
-* Reward people who are working with you with social activities, complements, and assistance.
-* Learn to collaborate and delegate. You cannot succeed on your own.
+* Reward people who are working with you with social activities, compliments, and assistance.
 * Inclusivity is important, but it does take time and effort so make it a priority.
-* Enlist top level support – when advocating, show these changes are sponsored by the Vice-Chancellor, PVCs, deans and research directors and senior researchers.
 
-Take inventory of advocacy assets and gaps
+## Assess team capacity.
+* Assess organizational capacity. For each asset listed below, brainstorm whether you have a teammate that might be that asset. Add other assets that are relevant to your advocacy goal.
+  * Teammates who:
+    * are available to lead advocacy planning and management.
+    * can be influencial spokespeople.
+    * have relationships with decision-makers.
+    * have relationships with media.
+    * have expertise in communications and media relations.
+    * have expertise in collaboration and coalition-building.
+    * have expertise in community mobilization.
+    * have expertise in social media.
+    * have expertise with policy development and processes.
+    * have experience with fundraising.
+  * Identify your team's 3 greatest assets and 3 greatest gaps in capacity.
 
-# Advocacy Partners
+# Choose your partners.
 
-## Select advocacy partners
+## Select advocacy partners.
+* List 3-5 potential advocacy partner organizations, individuals, alliances, and coalitions. Partners should complement your assets and gaps, rather than replicate them. They should be aligned with your advocacy goal.
+  * For each potential partner, brainstorm:
+    * Strategic reasons to partner.
+    * Potential risks to the partnership.
+    * Anticipated ways and strategies to collaborate.
 
 ## Reach out and build a community.
 * Working with those responsible for delivering related messages can make your advocacy more effective.
@@ -181,6 +203,7 @@ Take inventory of advocacy assets and gaps
 * You need a platform to get attention. Join well known bodies or organizations. Get gradually introduced to the world through these organizations. You are able to do more with a platform.
 * You never know who you are going to meet! Some of the best contacts are met unexpectedly.
 * You have to ask people to do things. Having supporters alone does not do anything. Having people do things is important.
+* Enlist top level support – when advocating, show these changes are sponsored by the Vice-Chancellor, PVCs, deans and research directors and senior researchers.
 
 # Advocacy Tactics
 
@@ -229,17 +252,7 @@ Define your campaign.
    * Discuss challenges meeting the deadline
    * Offer support
    * Re-evaluate tasks
-* Anticipate your challenges.
-   * What are the challenges?
-      * Sustainability
-      * Fundraising
-      * Recruitment
-      * Organization
-      * Delegation
-      * Communication
-      * Accountability
-      * Lack of expertise or information
-      * Resistant or disengaged audience
+
 
 # Advocacy Messages
 
