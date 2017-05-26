@@ -101,40 +101,6 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
        * (1) What might stop them from supporting our advocacy goal?
        * (2) What do they care about that we could use to persuade them to change their position?
 
-## What do they need to know: Create an Audience Map.
-* One way to organize this information is in an [Audience Map](https://docs.google.com/spreadsheets/d/16jZifh0jhVtDlAT02EkGm6XzxrZY1mhiPzGF1svhbak/edit?usp=sharing):
-   * Helps you prioritize who you should talk to first
-   * A living document you can update as you meet and learn from your audience, or as their engagement changes
-   * First step to tailoring your communication to the motivations and information needs of your audience
-* Only begin crafting your messages and choosing channels to use when you understand your stakeholders’ needs well
-   * Before you start communicating, consider:
-       * Who you want to reach
-       * Why are they important
-       * What motivates them
-
-## Understand what motivates your audience
-
-## Take their temperature.
-* Take the temperature of the groups you want to communicate with.
-* This can be done formally (through a survey, structured interview, or focus group) or informally (a chat over coffee with a member of the group).
-* Gauge how much they understand about clinical trial transparency, what their attitudes and beliefs are, and what their concerns, interests, and motivations might be.
-
-## Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
-* Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing) for a ‘typical’ audience member.
-* Helps to organize what you learn
-* A living document you can update as you meet and learn from your audience
-* Tailor your story to resonate with their motivations
-* Tailor your information to address what their information needs might be
-* The learner’s general **background** and prior knowledge
-* The **problem** they face 
-* How you can help them [(Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/))
-
-## Evaluate awareness and position of decision-makers
-
-## Target advocacy goals to the appropriate decision-makers
-
-## Decisions-makers' Key Interests
-
 # Plan for opposition and obstacles.
 
 ## Analyze the opposition.
@@ -205,24 +171,23 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
 * You have to ask people to do things. Having supporters alone does not do anything. Having people do things is important.
 * Enlist top level support – when advocating, show these changes are sponsored by the Vice-Chancellor, PVCs, deans and research directors and senior researchers.
 
-# Advocacy Tactics
+# Make a plan.
 
-## Create SMART advocacy objectives
+## Define your advocacy campaign mission, vision, and strategy.
+* You have already defined your advocacy goal. Now define the mission, vision, and strategy.
+  * Mission: What will your advocacy do, for whom, and why?
+  * Vision: What do you want your campaign to become?
+  * Strategy: How are you going to succeed?
 
-Define your campaign.
-* What do you want your campaign to achieve?
-   * Mission: What will your project do, for whom, and why?
-   * Vision: What do you want your project to become?
-   * Goal: What is the purpose of your project?
-   * Strategy: How are you going to succeed?
-   * Objectives: What will you accomplish and when (see below)?
-* What are your campaign objectives?
+## Define SMART advocacy objectives.
+* What will you accomplish and when? Objectives are the specific actions and steps that you want your decision-makers and influencers to take in support of your advocacy goal.
+* Write 3 advocacy objectives that are needed to achieve your advocacy goal:
    * Your objectives must be:
-      * Specific: Target a specific area for improvement
-      * Measurable: Quantify or at least suggest an indicator of progress
-      * Achievable: "Can the measurable objective be achieved by the person?"
-      * Realistic: State what results can realistically be achieved, given available resources
-      * Time-related: Specify when the result(s) can be achieved
+      * Specific: Target a specific area for improvement and define who will be taking action.
+      * Measurable: Quantify or at least suggest an indicator of progress.
+      * Achievable: "Can the measurable objective be achieved by the person?".
+      * Realistic: State what results can realistically be achieved, given available resources.
+      * Time-related: Specify when the result(s) can be achieved.
 * What is your campaign scope?
    * Just as important as defining what you WILL do is defining what you WILL NOT do.
 * Deliverables
@@ -233,14 +198,42 @@ Define your campaign.
    * What is your budget?
    * What do you need to do?
 
-## Prioritize advocacy activities
+## Identify possible advocacy activities to achieve your objectives.
+* The best advocacy activities will depend on your objectives and your decision-makers. Brainstorm 3 possible activities per objectives that will lead you to achieving them. Examples are below:
+  * Traditional and new media (Creating an op-ed, press release, press briefing, Twitter post, Facebook post, webinar, interview, media advisory, website, YouTube channel, podcast, documentary, press conference, art installation, Google Hangout, listserv, letter to the editor, blog, etc.)
+  * Events and meetings (Host a photo or art exhibit, policy dialogue, private dinner, film festival, award ceremony, demonstration, report launch, expert panel, symposium, field visit, gala, summit, commemoration, task force, coalition meeting, cocktail reception, parliamentary briefings, meeting with decision-makers, stakeholder briefing, etc.)
+  * Materials and publications (Creating a report, fact sheet, policy brief, brochure, poster, infographic, white paper, talking points, peer-reviewed journal article, slidedeck, newsletter, photo book, etc.)
+  * Gathering evidence for advocacy (Gather data through modeling, key informant interviews, facility assessments, case studies, focus groups, collecting stories, pilot projects, cost-effectiveness evaluation, field visit, literature review, policy and budget analysis, etc.)
+  * Monitoring commitments and promoting accountability (Promote accountability through participatory budgeting, public expenditure tracking, community scorecards, citizen report cards, social audits, citizen charters, health committees, health pacts, public audits, etc.)
 
-## Identify activity resources
+## Prioritize advocacy activities.
+* The best activities are the most likely to have a direct impact on your decision-makers. Select your 1 main activity for each objective by answering Yes or No for each possible activity:
+  * Will the activity address a decision-makers' key interest?
+  * Will the activity be of interest to a decision-maker?
+  * Will the activity lesson the influence of an opposing group on your decision-maker?
+  * Does your team have the expertise and resources to successfully complete the activity?
+  * Are there upcoming events, dates, or public decisions that this activity could piggyback?
+  * Does the activity pose any risk to your team or advocacy goal?
+  
+## Identify advocacy activity resources.
+* For your 3 main advocacy activities, define what you need for them to be successful:
+  * Team: What type and how much team time and expertise will be needed to carry out your desired activities?
+  * Partners: Will you need the expertise or resources of partners to successfully implement an activity?
+  * Costs: What are the costs associated with these activities? 
+  * Timeline: When should the activities be conducted? How long will they take? Is there a particular time that they should take place? 
 
-## Develop a work plan
+## Create your advocacy work plan.
+* Now, you can put together your work plan!
+  * Compile the activities above into a work plan that defines:
+    * Objective No. 1
+      * Activity No. 1, Responsible teammates, Activity partners, Costs, Timeline.
+    * Objective No. 2
+      * Activity No. 2, Responsible teammates, Activity partners, Costs, Timeline.
+    * Objective No. 3
+      * Activity No. 3, Responsible teammates, Activity partners, Costs, Timeline.      
 
-## Create a campaign plan.
-* Define discrete tasks with realistic deadlines.
+## Delegate advocacy tasks.
+* Define discrete tasks for each activity with realistic deadlines.
    * What will happen
    * Who will do what
    * When will we complete the task
@@ -253,10 +246,35 @@ Define your campaign.
    * Offer support
    * Re-evaluate tasks
 
+# Develop compelling advocacy messages.
 
-# Advocacy Messages
+## Understand what motivates your audience.
 
-## Develop compelling advocacy messages
+### Take their temperature.
+* Take the temperature of the groups you want to communicate with.
+* This can be done formally (through a survey, structured interview, or focus group) or informally (a chat over coffee with a member of the group).
+* Gauge how much they understand about clinical trial transparency, what their attitudes and beliefs are, and what their concerns, interests, and motivations might be.
+
+## What do they need to know: Create an Audience Map.
+* One way to organize this information is in an [Audience Map](https://docs.google.com/spreadsheets/d/16jZifh0jhVtDlAT02EkGm6XzxrZY1mhiPzGF1svhbak/edit?usp=sharing):
+   * Helps you prioritize who you should talk to first
+   * A living document you can update as you meet and learn from your audience, or as their engagement changes
+   * First step to tailoring your communication to the motivations and information needs of your audience
+* Only begin crafting your messages and choosing channels to use when you understand your stakeholders’ needs well
+   * Before you start communicating, consider:
+       * Who you want to reach
+       * Why are they important
+       * What motivates them
+
+## Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
+* Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing) for a ‘typical’ audience member.
+* Helps to organize what you learn
+* A living document you can update as you meet and learn from your audience
+* Tailor your story to resonate with their motivations
+* Tailor your information to address what their information needs might be
+* The learner’s general **background** and prior knowledge
+* The **problem** they face 
+* How you can help them [(Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/))
 
 ## Start with the "Why?"
 
