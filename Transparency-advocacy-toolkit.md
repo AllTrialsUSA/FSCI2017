@@ -253,9 +253,9 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
 ### Take their temperature.
 * Take the temperature of the groups you want to communicate with.
 * This can be done formally (through a survey, structured interview, or focus group) or informally (a chat over coffee with a member of the group).
-* Gauge how much they understand about clinical trial transparency, what their attitudes and beliefs are, and what their concerns, interests, and motivations might be.
+* Gauge how much they understand about your issue and advocacy goal, what their attitudes and beliefs are, and what their concerns, interests, and motivations might be.
 
-## What do they need to know: Create an Audience Map.
+### What do they need to know: Create an Audience Map.
 * One way to organize this information is in an [Audience Map](https://docs.google.com/spreadsheets/d/16jZifh0jhVtDlAT02EkGm6XzxrZY1mhiPzGF1svhbak/edit?usp=sharing):
    * Helps you prioritize who you should talk to first
    * A living document you can update as you meet and learn from your audience, or as their engagement changes
@@ -266,33 +266,45 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
        * Why are they important
        * What motivates them
 
-## Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
+## Construct the message in four parts:
+### 1. What is the issue, as it relates to the audience?
+
+* Use lay language or provide appropriate definitions.
+* Start with a positive, succinct, definition of your issue that is appropriate for that audience.
+   * For example, "Clinical trial transparency is when important information for clinical trial stakeholders (patients, physicians, policy-makers, etc.) is made public by registering all clinical trials and reporting all clinical trial results."
+   
+### 2. Why should your audience care about the issue?
+
+#### Always start with the "Why?"
+* Why do you care about the issue? 
+  * To give them the “I have a dream” speech, not the “I have some facts” speech, or even the “I have a plan” speech, you need to identify your motivation for wanting to improve this issue. Think about: 
+    * How does this issue relate to your experiences?
+    * How does this issue relate to your values?
+    * How does this issue impact your role / profession?
+    * What worries or hopes do you have about this issue?
+    * How do you fit into this picture?
+    * Why is this issue important to you?
+* Why are you talking to this audience about the issue and why should they care? 
+  * Now, focus on your audience's "Why?"
+    * How might this issue relate to their experiences?
+    * How does this issue relate to their values?
+    * How does this issue impact their role / profession?
+    * What worries or hopes might they about this issue?
+    * How do they fit into the advocacy plan? Why do you need them?
+    * Why should they care about this issue?
+   
+#### Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
 * Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing) for a ‘typical’ audience member.
 * Helps to organize what you learn
-* A living document you can update as you meet and learn from your audience
-* Tailor your story to resonate with their motivations
-* Tailor your information to address what their information needs might be
-* The learner’s general **background** and prior knowledge
-* The **problem** they face 
+* A living document you can update as you meet and learn from your audience.
+* Tailor your story to resonate with their motivations.
+* Tailor your information to address what their information needs might be.
+* The learner’s general **background** and prior knowledge.
+* The **problem** they face.
 * How you can help them [(Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/))
 
-## Start with the "Why?"
-
-* Always start with the "Why?". Why do you care about the issue? Why are you talking to this audience about the issue and  why should they care? Start with the “I have a dream” speech, not the “I have some facts” speech, or even the “I have a plan” speech
-
-* As you review the essential information about open clinical research, think about:
-   * How does this issue relate to your experiences?
-   * How does this issue relate to your values?
-   * How does this issue impact your role / profession?
-   * What worries or hopes do you have about this issue?
-   * How do you fit into this picture?
-   * Why is this issue important to you?
-* Identify your motivation for wanting to improve this issue - this will help you find your audience and create compelling messages for them in the next steps
-
-## Use lay language or provide appropriate definitions.
-
-* Start with a positive, succinct, definition of clinical trial transparency that is appropriate for that audience.
-   * "Clinical trial transparency is when important information for clinical trial stakeholders (patients, physicians, policy-makers, etc.) is made public by registering all clinical trials and reporting all clinical trial results."
+3. What is the solution and its impact on the problem?
+4. What should the audience specifically do?
 
 ## Appeal to their needs and interests.
 
@@ -305,6 +317,26 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
    * Show them how you can support them in their action, engagement, or compliance.
    * Outline some of the advantages for them
    * Draft FAQs that relate to their likely concerns.
+
+
+
+
+
+
+   
+## Craft your pilot messages.
+
+* Evaluate whether your messages are:
+  * Brief
+  * Focused
+  * Solution-oriented
+  * Supported by evidence
+  * Targeting the key interests of the audience
+  * Useing non-technical language
+  * Optimistic
+  * Has a clear request
+  
+
 
 ## Identify advocacy messengers
 
