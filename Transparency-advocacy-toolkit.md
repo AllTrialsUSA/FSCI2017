@@ -265,7 +265,17 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
        * Who you want to reach
        * Why are they important
        * What motivates them
-
+       
+#### Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
+* Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing) for a ‘typical’ audience member.
+* Helps to organize what you learn
+* A living document you can update as you meet and learn from your audience.
+* Tailor your story to resonate with their motivations.
+* Tailor your information to address what their information needs might be.
+* The learner’s general **background** and prior knowledge.
+* The **problem** they face.
+* How you can help them [(Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/))       
+       
 ## Construct the message in four parts:
 ### 1. What is the issue, as it relates to the audience?
 
@@ -292,34 +302,25 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
     * What worries or hopes might they about this issue?
     * How do they fit into the advocacy plan? Why do you need them?
     * Why should they care about this issue?
-   
-#### Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing).
-* Create an [Audience Profile](https://docs.google.com/document/d/1OEJ9bE7531kLkF4xIAg1_ZmmFE4IAmuf7NF8wdqTdrQ/edit?usp=sharing) for a ‘typical’ audience member.
-* Helps to organize what you learn
-* A living document you can update as you meet and learn from your audience.
-* Tailor your story to resonate with their motivations.
-* Tailor your information to address what their information needs might be.
-* The learner’s general **background** and prior knowledge.
-* The **problem** they face.
-* How you can help them [(Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/))
+* Identify their needs, key interests, and concerns.
+  * What existing policies on your issue are relevant to them?
+  * What support and informational needs might they need?
+  * What concerns and worries will they have?
+  * What advantages and value does your advocacy goal hold for them?
+* Write a succinct message that tells your audience the "Why" of your issue and advocacy goal that gives them the story of:
+  * Why YOU (specifically) are talking to THEM (specificially).
+  * If you have shared values relating to this issue, tell them how your values lead you to care about the issue.
+  * Why they should care about the issue.   
 
-3. What is the solution and its impact on the problem?
-4. What should the audience specifically do?
+### 3. What is the solution and its impact on the problem?
+* Write a brief outline of your advocacy goal and describe how it will solve the issue.
 
-## Appeal to their needs and interests.
-
-* Continue with any existing policies that might be relevant to your audience.
-   * "The FDA and the NIH now have policies that require the registration and reporting of clinical trials on ClinicalTrials.gov."
-* Appeal to your Audience’s Interests
-   * Form messages that speak to stakeholders’ needs whenever possible.
-   * List and anticipate concerns.
-   * Take into account their any interests relating to their discipline.
-   * Show them how you can support them in their action, engagement, or compliance.
-   * Outline some of the advantages for them
-   * Draft FAQs that relate to their likely concerns.
+### 4. What should the audience specifically do?
+* Write a very specific and targeted "ask" or request for your audience.
 
 ## Craft your pilot messages.
 
+* Connect the above 4 parts into one message that emphasizes the Why and leads to a clear request.
 * Evaluate whether your messages are:
   * Brief
   * Focused
@@ -329,8 +330,10 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
   * Useing non-technical language
   * Optimistic
   * Has a clear request
+ * Keep your pilot message short, under 3 minutes. If there is important information that cannot be contained in 3 minutes, create a handout or brochure with the additional informating, targeted FAQs, and targeted resources. 
   
-## Identify advocacy messengers
+  
+## Identify advocacy messengers.
 
 ## Match audiences with messages & channels.
 
