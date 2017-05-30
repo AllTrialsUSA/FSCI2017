@@ -318,12 +318,6 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
    * Outline some of the advantages for them
    * Draft FAQs that relate to their likely concerns.
 
-
-
-
-
-
-   
 ## Craft your pilot messages.
 
 * Evaluate whether your messages are:
@@ -336,8 +330,6 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
   * Optimistic
   * Has a clear request
   
-
-
 ## Identify advocacy messengers
 
 ## Match audiences with messages & channels.
@@ -412,20 +404,40 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
    * Schedule your event to follow related events or to coincide with important dates, and frame your event to relate
 * Promote your event
    * Create a Google Form for RSVPs. For a free workshop, expect up to 50% attrition.
-   * Reach out for help with promotion and join forces
+   * Reach out for help with promotion and join forces.
 * Diversity issues
    * Not enough diversity, loudest people dominate the training
    * Have a diverse crowd, how to make that diverse voices
 
-# Plan to Measure Success
+# Define, measure, and evaluate success.
 
-## Define and list outputs
+## Define and list outputs.
+* Outputs are:
+  * the evidence that the activities you planned actually happened.
+  * Sometimes quantitative:
+    * Number of meetings
+    * Number of presentations
+    * Number of participants trained at a workshop
+  * Sometimes things that what you created during your activity:
+    * Curriculum created
+    * Handouts created
+* Make a list of your outputs for each advocacy activity.    
+    
+## Define and list outcomes.
+* Outcomes are:
+  * The effects of your activities.
+  * Sometimes the actions taken by decision-makers:
+    * Funding to study the issue, changes to polices, public statements of support.
+  * Sometimes the actions taken by others:
+    * Mentions of the issue in the media or by others.
+  * Sometimes qualitative.
+    * Changes in sentiment, language, or understanding of the issue by decision-makers.
+  * Your measure of how effective your activities are.
+    * Defined outcomes force you to consider exactly how you measure success and progress from your activities. 
 
-## Define and list outcomes
-
-## Monitor, measure, and evaluate success
+## Gather feedback and share success.
 * Gather feedback after each communication to evaluate how well it went. 
-* Online quizzes and surveys can quickly check understanding and changing opinions about transparency with your audience.
+* Online quizzes and surveys can quickly check understanding and changing opinions about your issue with your audience.
    * [Example workshop survey](http://ccvillage.buffalo.edu/Village/WC/wsc/other_resources/workshop_evaluation_form.html)
 * Metrics on registration and reporting at your institution might help you understand if you are making a difference in the long-term.
 * When you have success, be sure to share it with everyone! For example, [Open Access Success Stories](http://www.oastories.org/).
