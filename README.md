@@ -58,6 +58,7 @@ This course will cover the following topics:
 ### Required 
 
 * [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
+* [Transparency Advocacy Workbook](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Advocacy_toolkit_worksheets_FSCI.pdf)
 * [Strategies for Success: Open Access Policies at North American Educational Institutions (Fruin & Sutton, 2016)](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Strategies-for-Success_Fruin-Sutton-2016.pdf)
 
 ### Other Resources
