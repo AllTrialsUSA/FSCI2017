@@ -39,16 +39,17 @@ This course will cover the following topics:
 
 ### Day 1 - Monday 
 
+* Introducing research transparency and advocacy.
 * Defining your advocacy issue and advocacy goal.
 * Identifying key decision-makers and influencers.
-* Planning for opposition and obstacles.
-* Assessing your advocacy team and partners.
-* Selecting your advocacy objectives and activities.
+* Identifying opponents and partners.
 
 ### Day 2 - Tuesday 
 
+* Selecting your advocacy objectives and activities.
+* Creating an advocacy plan.
 * Developing compelling messages.
-* Creating your advocacy and communication plans.
+* Creating a communication plan.
 * Evaluating advocacy and communication success.
 * Peer-reviewing your advocacy and communication plans.
 
